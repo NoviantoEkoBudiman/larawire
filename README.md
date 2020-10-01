@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -63,3 +64,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # larawire
 >>>>>>> a9b9f517d37c46dab4754d2f17564598ba9c883e
+=======
+# larawire
+Larawarire adalah projek untuk berlatih menggunakan Laravel + Livewire
+>>>>>>> cdd3e669c1df2ec32bafd4ad209003a87523bce7
